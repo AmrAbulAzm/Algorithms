@@ -1,10 +1,10 @@
-# 1
+### 1
 
-A. Binary search algorithm: find an element in a sorted array
-B. O(log n)
+A. Binary search algorithm: find an element in a sorted array</br>
+B. O(log n)</br>
 C. O(1)
 
-# 2
+### 2
 
 These are recursive binary search algorithms and the first function was an iterative 
 one. The first recursive function is tail recursion while the second is linear recursion.
@@ -17,7 +17,7 @@ explicit in how the function executes. Tthe recursive relies on the knowledge of
 it's two parts, the base case that exits the recursive chain and the recursive case
 that keeps dividing the initial input.
 
-# 3
+### 3
 
 In Classical inheritence classes are a generalized blueprint which allows us to create
 objects. These objects are abstractions of real-life entities. There is a parent-child
