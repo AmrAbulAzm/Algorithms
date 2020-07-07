@@ -1,7 +1,6 @@
 {
   "name": "alogirthms",
   "version": "1.0.0",
-  "description": "arrival questionnaire",
   "scripts": {
     "test": "jest"
   },
